@@ -1,0 +1,8 @@
+{
+  "name": "فتوى - Fatwa AI",
+  "description": "تطبيق ذكاء اصطناعي متخصص في تقديم الفتاوى الشرعية مع أدوات ذكية للتحقق من البيانات والتحليل البصري.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
